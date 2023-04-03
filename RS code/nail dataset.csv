@@ -1,0 +1,121 @@
+Image ID;color;shape;length;nail art ;nail art level;nail art style;mood
+1;emerald green, silver;square;short;yes;simple;line art, full covered ;calm, energy, adventure, vigor, faith
+2;emerald green;square;short;yes;simple;small art, hearts, full covered ;calm, energy, adventure, vigor, faith
+3;emerald green, gold;square;short;yes;simple;line art, full covered ;calm, energy, adventure, vigor, faith
+4;emerald  green;square;short;yes;simple;line art, full covered ;calm, energy, adventure, vigor, faith
+5;green;square;short;yes;simple;french tips;calm, energy, adventure, vigor, faith
+6;green;square;short;yes;simple;french tips;calm, energy, adventure, vigor, faith
+7;green;square;short;yes;simple;french tips;calm, energy, adventure, vigor, faith
+8;light green;square;short;yes;simple;french tips;calm, energy, adventure, vigor, faith
+9;green;square;short;yes;simple;reversed tip;calm, energy, adventure, vigor, faith
+10;green;square;short;yes;simple;french tips;calm, energy, adventure, vigor, faith
+11;green;round;middle long;yes;medium;swirl, full covered;calm, energy, adventure, vigor, faith
+12;emerald green;round;middle long;yes;simple;flowers, full covered, small art;calm, energy, adventure, vigor, faith
+13;emerald green;square;middle long;yes;simple;full covered, small art;calm, energy, adventure, vigor, faith
+14;emerald green, gold;round;middle long;yes;simple;full covered, small art;calm, energy, adventure, vigor, faith
+15;green;coffin;long;yes;medium;full covered, glitters;calm, energy, adventure, vigor, faith
+16;emerald green;round;long;yes;simple;french tips, glitters;calm, energy, adventure, vigor, faith
+17;green;round;middle long;yes;simple;french tips;calm, energy, adventure, vigor, faith
+18;green;round;middle long;yes;medium;french tips, medium art;calm, energy, adventure, vigor, faith
+19;green;coffin;long;yes;complex;french tips, full covered, marmer;calm, energy, adventure, vigor, faith
+20;light green, white;round;middle long;yes;simple;ombre, line art;calm, energy, adventure, vigor, faith
+21;orange, pink, light pink, gold;round;middle long;yes;simple;swirl ;joy, ambition, proud, confident
+22;orange, yellow, white ;round;middle long;yes;simple;flowers, french tips;joy, ambition, proud, confident
+23;orange ;round;middle long;yes;simple;french tips, checkered;joy, ambition, proud, confident
+24;light orange ;round;middle long;yes;simple;french tips, full covered;joy, ambition, proud, confident
+25;orange ;round;middle long;no;none;none;joy, ambition, proud, confident
+26;orange ;round;middle long;yes;simple;patterns;joy, ambition, proud, confident
+27;orange ;round;middle long;yes;simple;small art;joy, ambition, proud, confident
+28;light orange, pink ;round;short;yes;simple;line art ;joy, ambition, proud, confident
+29;orange, gold;round;middle long;yes;simple;french tips, full covered;joy, ambition, proud, confident
+30;orange, nude;round;middle long;yes;simple;checkered, line art;joy, ambition, proud, confident, transparant
+31;orange, gold ;round;long;yes;simple;french tips, glitters, line art;joy, ambition, proud, confident
+32;orange ;round;long;yes;simple;french tips, small art ;joy, ambition, proud, confident
+33;orange, white, red, yellow;round;middle long;yes;complex;swirl, medium art, flowers;joy, ambition, proud, confident
+34;orange ;round;long;yes;simple;swirl;joy, ambition, proud, confident
+35;orange ;round;long;yes;complex;french tips, glitters, stones, small art;joy, ambition, proud, confident
+36;orange ;square;long;yes;simple;full covered, french tips, glitters;joy, ambition, proud, confident
+37;light orange ;round;middle long;yes;simple;ombre;joy, ambition, proud, confident
+38;orange ;round;long;yes;complex;french tips, glitters, small art;joy, ambition, proud, confident
+39;orange ;round;long;yes;simple;full covered, golden flakes;joy, ambition, proud, confident
+40;light orange ;square;short;yes;simple;line art ;joy, ambition, proud, confident
+41;purple;coffin;long;yes;simple;small art, hearts;power, mastery
+42;purple;coffin;long;yes;simple;patterns, covered;power, mastery
+43;purple, white, nude;coffin;long;yes;medium;swirl;power, mastery, transparant
+44;purple;coffin;long;yes;medium;full covered, french tips, gold flakes;power, mastery
+45;purple, white;coffin;long;yes;simple;french tips, flowers;power, mastery
+46;purple;coffin;long;no;none;none;power, mastery
+47;purple;coffin;long;yes;complex;full covered, marmel;power, mastery
+48;purple;coffin;long;yes;complex;glitters;power, mastery
+49;purple;coffin;middle long;yes;medium;stickers;power, mastery
+50;purple;coffin;middle long;yes;complex;ombre, stones, glitters;power, mastery
+51;purple;round;middle long;yes;simple;dots, full covered;power, mastery
+52;purple, white;round;middle long;yes;medium;flowers, patterns, full covered;power, mastery
+53;purple, orange;square;short;yes;medium;french tips, medium art, flowers;power, mastery
+54;purple, white;coffin;long;yes;simple;swirl;power, mastery
+55;purple;round;middle long;yes;simple;french tips, chrome;power, mastery
+56;purple., white;round;short;yes;simple;full covered, hearts, patterns;power, mastery
+57;purple;coffin;long;yes;complex;french tips, marmer, full covered;power, mastery
+58;purple;round;long;yes;simple;line art, full covered;power, mastery
+59;purple, white;square;middle long;yes;simple;full covered, flowers;power, mastery
+60;purple;round;middle long;yes;medium;glitters, full covered;power, mastery
+61;blue;round;short;yes;simple;full covered, glitters;confident, trustworthy, calm
+62;blue;round;middle long;yes;medium;swirl, flowers, full covered;confident, trustworthy, calm
+63;blue;round;middle long;yes;complex;ombre, stones;confident, trustworthy, calm
+64;blue;round;middle long;no;none;none;confident, trustworthy, calm
+65;blue;round;long;yes;complex;stones, medium art;confident, trustworthy, calm
+66;blue;round;long;yes;simple;french tips;confident, trustworthy, calm
+67;dark blue;round;middle long;yes;simple;line art, full covered;confident, trustworthy, calm
+68;blue;round;middle long;yes;medium;ombre, small art;confident, trustworthy, calm
+69;light blue;round;long;yes;complex;swirl, stones;confident, trustworthy, calm
+70;blue;round;short;yes;simple;full covered, glitters;confident, trustworthy, calm
+71;blue;square;middle long;yes;simple;french tips, big art;confident, trustworthy, calm
+72;blue;round;short;yes;simple;full covered, swirl, flowers;confident, trustworthy, calm
+73;blue;round;middle long;yes;simple;full covered, flowers, patterns;confident, trustworthy, calm
+74;blue;round;middle long;yes;simple;french tips, swirl;confident, trustworthy, calm
+75;blue;square;long;yes;medium;french tips, golden flakes;confident, trustworthy, calm
+76;light blue;round;middle long;yes;simple;full covered, small art;confident, trustworthy, calm
+77;blue;square;short;yes;medium;full covered, medium art;confident, trustworthy, calm
+78;light blue;square;middle long;yes;medium;full covered, medium art;confident, trustworthy, calm
+79;blue, nude;square;middle long;yes;medium;line art, glitters, small art ;confident, trustworthy, calm, transparant
+80;blue;coffin;long;yes;simple;small art, hearts;confident, trustworthy, calm
+81;yellow, white;square;long;yes;medium;french tips, flowers;happiness, energetic, lively
+82;yellow, white;square;long;yes;simple;patterns, flowers, full covered;happiness, energetic, lively
+83;yellow;square;middle long;yes;simple;french tips;happiness, energetic, lively
+84;yellow;square;short;yes;medium;swirl;happiness, energetic, lively
+85;yellow;square;middle long;no;none;none;happiness, energetic, lively
+86;yellow;square;short;yes;simple;medium art, flowers;happiness, energetic, lively
+87;yellow;square;middle long;yes;complex;medium art, flowers;happiness, energetic, lively
+88;yellow;square;long;yes;medium;french tips, patterns, flowers;happiness, energetic, lively
+89;yellow;square;middle long;yes;simple;small art;happiness, energetic, lively
+90;yellow;square;short;yes;simple;small art;happiness, energetic, lively
+91;yellow;round;middle long;yes;simple;line art;happiness, energetic, lively
+92;yellow;coffin;long;yes;simple;full covered, flowers;happiness, energetic, lively
+93;yellow;square;short;yes;simple;full covered, flowers;happiness, energetic, lively
+94;yellow;coffin;long;yes;simple;full covered, line art ;happiness, energetic, lively
+95;yellow;round;long;yes;complex;french tips, flowers, small art;happiness, energetic, lively
+96;yellow;round;middle long;yes;simple;swirl;happiness, energetic, lively
+97;yellow;round;long;yes;medium;french tips, stones, flowers, full covered;happiness, energetic, lively
+98;yellow, white;square;short;yes;simple;hearts, small art;happiness, energetic, lively
+99;yellow;coffin;long;yes;medium;medium art, flowers;happiness, energetic, lively
+100;yellow, purple;square;middle long;yes;simple;full covered, french tips;happiness, energetic, lively
+101;red ;square;long;yes;simple;french tips, swirl;love, active, emotional, confident
+102;red ;round;middle long;yes;simple;small art;love, active, emotional, confident
+103;red, white, pink;round;middle long;yes;medium;swirl;love, active, emotional, confident, creative, playful, organized
+104;red ;round;long;yes;medium;flowers;love, active, emotional, confident
+105;red ;square;long;yes;simple;french tips, full covered;love, active, emotional, confident
+106;red ;round;long;yes;simple;small art, hearts;love, active, emotional, confident
+107;red ;round;middle long;no;none;none;love, active, emotional, confident
+108;red ;square;long;yes;simple;stickers, full covered;love, active, emotional, confident
+109;red ;round;short;yes;simple;french tips, line art;love, active, emotional, confident
+110;red, pink;round;middle long;yes;simple;small art, hearts;love, active, emotional, confident, creative, playful
+111;red, white;square;short;yes;simple;hearts, full covered;love, active, emotional, confident, organized
+112;dark red ;coffin;long;yes;medium;stones, full covered;love, active, emotional, confident
+113;red, white;round;long;yes;medium;french tips, glitters;love, active, emotional, confident, organized
+114;red, white;square;middle long;yes;medium;french tips, full covered;love, active, emotional, confident, organized
+115;dark red ;square;short;yes;simple;swirl, full covered;love, active, emotional, confident
+116;red, white;round;middle long;yes;simple;line art;love, active, emotional, confident, organized
+117;red, gold;square;long;yes;complex;french tips, glitters, patterns;love, active, emotional, confident
+118;dark red ;round;long;yes;simple;french tips;love, active, emotional, confident
+119;dark red ;round;long;yes;medium;french tips, golden flakes;love, active, emotional, confident
+120;red ;square;long;yes;complex;big art, french tips;love, active, emotional, confident
